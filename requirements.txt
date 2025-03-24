@@ -1,0 +1,2 @@
+tkinter
+pytest==7.3.1
